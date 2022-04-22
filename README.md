@@ -22,4 +22,4 @@ Sys Admin
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/virusfreak7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/virusfreakr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
